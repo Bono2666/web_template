@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{272:function(n,t,o){o(16),o(35),o(77),o(49),n.exports=o(74)},74:function(n,t,o){"use strict";o.r(t);var e=o(0),c=o(2),i=o.n(c);e.a.fn.gaLinkEvent=i()((function(n,t){n.on("click returnkey",()=>{const n=t.name;"function"==typeof gtag&&gtag("event",n,{})})}))}},[[272,0]]]);

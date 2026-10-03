@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{325:function(s,o,e){"use strict";e.r(o);var n=e(0),a=e(2),c=e.n(a);e(126).a.load().then(({default:s})=>{n.a.fn.downloadForm=c()(class extends s{showSuccessMessage(){super.showSuccessMessage();this.$form.find(".js-download-form-link").click()}},{namespace:"downloadForm"})})}}]);
